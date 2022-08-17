@@ -1,6 +1,6 @@
 # Battleship
 
-For this project you will write a class called ShipGame that allows two people to play the game [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)). Each player has their own 10x10 grid they place their ships on. On their turn, they can fire a torpedo at a square on the enemy's grid. Player 'first' gets the first turn to fire a torpedo, after which players alternate firing torpedos. A ship is sunk when all of its squares have been hit. When a player sinks their opponent's final ship, they win.
+This project is based off of the game [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)). Each player has their own 10x10 grid they place their ships on. On their turn, they can fire a torpedo at a square on the enemy's grid. Player 'first' gets the first turn to fire a torpedo, after which players alternate firing torpedos. A ship is sunk when all of its squares have been hit. When a player sinks their opponent's final ship, they win.
 
 The ShipGame class should have these methods:
 * an init method that has no parameters and sets all data members to their initial values

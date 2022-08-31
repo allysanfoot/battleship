@@ -54,5 +54,3 @@ game.fire_torpedo('first', 'H3')
 game.fire_torpedo('second', 'A1')
 print(game.get_current_state())
 ```
-
-Your file must be named **ShipGame.py**

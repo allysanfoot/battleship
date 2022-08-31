@@ -42,7 +42,7 @@ I
 J                
 ```
 
-As a simple example, your class could be used as follows:
+As a simple example, the class could be used as follows:
 ```
 game = ShipGame()
 game.place_ship('first', 5, 'B2', 'C')
